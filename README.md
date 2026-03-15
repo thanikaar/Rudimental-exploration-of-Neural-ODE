@@ -1,6 +1,6 @@
 # Rudimental-exploration-of-Neural-ODE
 
-## 1. Introduction
+## 1. Introduction 
 
 This repository contains the coursework and experiments developed for **UGST4090 – Introduction to Optimization**.
 
