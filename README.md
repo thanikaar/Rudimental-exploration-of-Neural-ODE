@@ -1,6 +1,6 @@
 # Rudimental-exploration-of-Neural-ODE
 
-## 1. Introduction
+## 1. Introduction 
 
 This repository contains the coursework and experiments developed for **UGST4090 – Introduction to Optimization**.
 
@@ -33,7 +33,7 @@ Rudimental-exploration-of-Neural-ODE/
 | `node_implementation` | Core Neural ODE implementation using an ODE solver (e.g. `torchdiffeq`) with training loops and evaluation scripts |
 | `mnist_comparison` | Comparison of Neural ODE vs. a standard ResNet baseline on the MNIST digit classification benchmark |
 | `time_series_comparison` | Application of Neural ODE to irregular time-series data, compared against RNN/LSTM baselines |
-
+|`neuralODE_examples_simple_implementations`| Implementations of Neural ODEs through four sections, all implemented in PyTorch and using synthetically generated data |
 
 ```
 
